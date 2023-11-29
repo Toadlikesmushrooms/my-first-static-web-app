@@ -38,3 +38,11 @@ nav ul li a{
     color: #fff;
     font-size: 17px;
 }
+.content{
+    text-align: center;
+}
+.content h1{
+    font-size: 160px;
+    color: #fff;
+    font-weight: 600;
+}
