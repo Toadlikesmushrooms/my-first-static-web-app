@@ -25,3 +25,11 @@ nav{
     align-items: center;
     justify-content: space-between
 }
+nav.logo{
+    width: 80px;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
