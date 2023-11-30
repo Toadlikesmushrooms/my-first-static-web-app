@@ -39,9 +39,12 @@ nav ul li a{
     font-size: 17px;
 }
 .content{
+    padding: 100px;
     width: auto;
     height: 80px;
-    color: blue;
+    background-color: aqua;
+    margin: 40px;
+    
 }
 .back-video{
     position: absolute;
