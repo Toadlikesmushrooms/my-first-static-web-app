@@ -43,10 +43,11 @@ nav ul li a{
     width: 100px;
     height: auto;
     display: flex;
+    flex-direction: row-reverse;
  }   
  .flex-box{
     width: 200px;
-    padding: 200px;
+    padding: 100px;
     height: 200px;
     background-color: aqua;
     color: black;
