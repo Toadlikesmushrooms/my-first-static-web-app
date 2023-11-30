@@ -46,7 +46,7 @@ nav ul li a{
  }   
  .flex-box{
     width: 200px;
-    padding: auto;
+    padding: 200px;
     height: 200px;
     background-color: aqua;
     color: black;
