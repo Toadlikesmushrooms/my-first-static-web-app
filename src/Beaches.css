@@ -43,6 +43,7 @@ nav ul li a{
     width: 100px;
     height: auto;
     display: flex;
+    flex-direction: row-reverse;
  
  }   
  .flex-box{
