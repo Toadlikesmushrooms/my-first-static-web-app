@@ -39,13 +39,14 @@ nav ul li a{
     font-size: 17px;
 }
 
- .flex-box{
-    margin: 4px;
-    padding: 100px;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    border: black;
-    
+.flex-contanier{
+    width: 100px;
+    height: auto;
  }   
+ .flex-box{
+    width: 200px;
+    height: 200px;
+ }
 
 .back-video{
     position: absolute;
