@@ -46,16 +46,12 @@ nav ul li a{
     float: right;
     align-self:right;
 }
-.section{
-    display: grid;
-    grid-template-columns: auto auto auto auto ;
-}
-section div{
-    border: 5px solid white;
-    padding: 30px;
-    margin: 10px;
-    color: aqua;
-    background-color: blueviolet;
-}
+.div {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+  }
 
 
