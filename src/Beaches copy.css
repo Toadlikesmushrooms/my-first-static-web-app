@@ -48,6 +48,7 @@ nav ul li a{
     background-color: blueviolet;
     display: flex;
     align-items: center;
+    grid-template-columns: auto auto;
 }
 
  
