@@ -46,5 +46,14 @@ nav ul li a{
     float: right;
     align-self:right;
 }
+.section{
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+}
+section div{
+    border: 5px solid white;
+    padding: 30px;
+    margin: 10px;
+}
 
 
