@@ -44,6 +44,7 @@ nav ul li a{
 }
 .map{
     float: right;
+    align-self:right;
 }
 
 
