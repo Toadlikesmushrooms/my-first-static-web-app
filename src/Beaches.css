@@ -54,6 +54,8 @@ section div{
     border: 5px solid white;
     padding: 30px;
     margin: 10px;
+    color: aqua;
+    background-color: blueviolet;
 }
 
 
