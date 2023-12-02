@@ -38,7 +38,17 @@ nav ul li a{
     color: #fff;
     font-size: 17px;
 }
-
+.flex-container{
+    padding: 100px;
+    width: 80px;
+    margin: 4px;
+    border: black;
+    border-radius: 3px;
+    color: aqua;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+}
 
  
 
