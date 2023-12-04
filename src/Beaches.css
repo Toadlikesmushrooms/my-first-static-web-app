@@ -56,7 +56,7 @@ nav ul li a{
 
 section{
     display: grid;
-    grid-template-columns: auto auto auto auto ;
+    grid-template-columns: auto auto  ;
 }
 section div{
     border: 5px solid white;
