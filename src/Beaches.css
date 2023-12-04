@@ -62,5 +62,6 @@ section div{
     border: 5px solid white;
     padding: 30px;
     margin: 10px;
+    font-size: 15px;
     align-items: center;
 }
