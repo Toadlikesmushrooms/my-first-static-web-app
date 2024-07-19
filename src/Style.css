@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.main{
+.main::after{
     width:100%;
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(abstract-rose-quarz-pink-fusia-background.jpg);
     background-position: center;
