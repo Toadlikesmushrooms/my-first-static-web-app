@@ -61,7 +61,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color:orange
+    color:#ff2200
 }
 .search{
     width: 330px;
@@ -73,4 +73,34 @@ ul li a:hover{
     width: 200px ;
     height: 40px;
     background: transparent;
+    border: 1px solid #ff2200 ;
+    margin-top: 13px;
+    color:white;
+    border-right: none;
+    font-size: 16px;
+    float:left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background: #ff2200;
+    border: 2px solid #ff2200;
+    margin-top: 13px;
+    color: white;
+    font-size: 15px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+
+}
+
+
+.btn:focus{
+    outline: none;
+
+}
+.srch:focus{
+    outline: none;
 }
