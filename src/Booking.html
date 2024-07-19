@@ -18,13 +18,23 @@
     <section class="hero">
         <div class="hero-container">
             <div class="column-left">
-                <h1>Small Box hotels</h1>
+                <h1>Booking</h1>
                 <p>Very cheap, near and can stay up to a month!</p>
                 <button>Book Now</button>
             </div>
-            <div class="column-right">
-                <img src="small-box-hotels-high-resolution-logo.png" alt="A Picture" class="hero-image">
-            </div>
+            <h3>Show an email field (allows only one email address):</h3>
+            <form action="/action_page.php">
+              <label for="email">Enter your email:</label>
+              <input type="email" id="email" name="email">
+              <input type="submit">
+            </form>
+            
+            <h3>Show an email field (allows multiple email addresses). Separate each email address with a comma:</h3>
+            <form action="/action_page.php">
+              <label for="emails">Enter email addresses:</label>
+              <input type="email" id="emails" name="emails" multiple>
+              <input type="submit">
+            </form>
         </div>
     </section>
 </body>
