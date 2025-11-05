@@ -12,5 +12,5 @@ buttons.forEach(button => {
     alert(`You added ${itemName} to your cart!`);
   });
 });
-const clearButton = document.getElementById('clearCart');
+
 
